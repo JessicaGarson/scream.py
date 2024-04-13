@@ -13,19 +13,16 @@ My current setup includes:
 
 ## Usage
 1. Install the required packages:
-
 ```bash
 pip install numpy scipy sounddevice
-
+```
 
 2. You will need to update the path on line 20 as well.
-
 ```python
 wav.write('/path/to/your/scream.wav', fs, myrecording)
 ```
 
 3. Run the file:
-
 ```
 python scream.py
 ```
