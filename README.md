@@ -22,7 +22,9 @@ pip install numpy scipy sounddevice
 wav.write('/path/to/your/scream.wav', fs, myrecording)
 ```
 
-3. Run the file:
+3. Ensure that your computer's sound output is configured to use your audio interface or the method through which your microphone is connected to your computer.
+
+4. Run the file:
 ```
 python scream.py
 ```
