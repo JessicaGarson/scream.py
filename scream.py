@@ -17,4 +17,4 @@ sd.wait()
 
 # Create the wav file
 print("I can now use my scream file!")
-wav.write('/Users/jessgarson/Documents/scream.wav', fs, myrecording)
+wav.write('/path/to/your/scream.wav', fs, myrecording)
