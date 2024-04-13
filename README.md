@@ -1,5 +1,5 @@
 # scream.py
-A simple tool for creating a `.wav` file for sampling. This script is used during [Messica Arson](https://messicaarson.bandcamp.com) performances for recording screams.
+A simple tool for creating a five second `.wav` file for sampling. This script is used during [Messica Arson](https://messicaarson.bandcamp.com) performances for recording screams.
 
 ## Prerequisites
 To use this tool, you'll need:
