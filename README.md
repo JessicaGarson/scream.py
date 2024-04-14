@@ -29,5 +29,7 @@ wav.write('/path/to/your/scream.wav', fs, myrecording)
 python scream.py
 ```
 
+5. Scream! 
+
 ## Contributions
 Contributions to improve this tool are welcome! If you have any suggestions, feature requests, or find any issues, please feel free to open an issue or submit a pull request.
